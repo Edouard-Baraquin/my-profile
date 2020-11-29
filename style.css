@@ -1,0 +1,47 @@
+h1{
+	color: white;
+	font-size:28px;
+	font-weight: lighter;
+}
+h2{
+	color:#BCE6EB;
+}
+body{
+	background-color:#03506F;
+	color:#F8F7DE;
+	font-family: arial, serif;
+	font-weight: lighter;
+}
+a{
+	color:#BCE6EB;
+	font-weight: bold;
+	font-size: 12px;
+	transition: color 0.3s ease;
+}
+
+a:hover{
+
+	color:grey;
+}
+
+#photo1{
+	width:300px;
+	border-radius: 8px;
+	border:1px dashed white;
+}
+
+div{    
+	border: 1px solid white;
+    background: #16697A;
+    width: 750px;
+    margin: 0 auto;
+    box-shadow: 20px 20px 20px grey;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#logo{
+width: 50px;
+border-radius: 50%;
+
+}
